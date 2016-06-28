@@ -1,0 +1,1 @@
+Sample java content file
